@@ -1,0 +1,15 @@
+.formulator{
+    background-image: url("resources/bg.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding-top: 25px
+}
+.mainDiv{
+    background-color: black;
+}
+#a,#b,#c{
+    color: #ff0003;
+}
+.bgc{
+    background-size: cover;
+}
